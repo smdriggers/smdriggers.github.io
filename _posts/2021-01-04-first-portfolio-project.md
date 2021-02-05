@@ -30,7 +30,7 @@ In all honesty these were not the results I was hoping for. I wanted to find dra
 
 For now though I suppose we'll just have to content ourselves with knowing that, should we ever take a water sample on one of Norfolks many rainy days, we can safely expect it to be a little more acidic than usual.
 
-
+## t-Test statistics
 | Parameter | t-value | p-value |
 | :------ |:--- | :--- |
 | pH | 2.051557 | 0.040506 |
@@ -39,4 +39,13 @@ For now though I suppose we'll just have to content ourselves with knowing that,
 | Water Depth | 1.707529 | 0.088073 |
 | Dissolved Oxygen | 1.073511 | 0.283520 |
 
+
+
+## Frequency distribution of pH values from rainy days
+
+![rain](https://github.com/smdriggers/smdriggers.github.io/blob/master/assets/img/pH_precip_pos.png)
+
+## Frequency distribution of pH values from non-rainy days
+
+![no_rain](https://github.com/smdriggers/smdriggers.github.io/blob/master/assets/img/pH_precip_neg.png)
 
