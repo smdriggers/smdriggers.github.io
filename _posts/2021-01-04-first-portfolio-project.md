@@ -48,9 +48,9 @@ For now though I suppose we'll just have to content ourselves with knowing that,
 
 ## Frequency distribution of pH values from rainy days
 
-![rain](https://github.com/smdriggers/smdriggers.github.io/blob/master/assets/img/pH_precip_pos.png)
+![Rain data](https://github.com/smdriggers/smdriggers.github.io/blob/master/assets/img/pH_precip_pos.png)
 
 ## Frequency distribution of pH values from non-rainy days
 
-![no_rain](https://github.com/smdriggers/smdriggers.github.io/blob/master/assets/img/pH_precip_neg.png)
+![No rain data](https://github.com/smdriggers/smdriggers.github.io/blob/master/assets/img/pH_precip_neg.png)
 
