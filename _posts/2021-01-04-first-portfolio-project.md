@@ -31,3 +31,12 @@ In all honesty these were not the results I was hoping for. I wanted to find dra
 For now though I suppose we'll just have to content ourselves with knowing that, should we ever take a water sample on one of Norfolks many rainy days, we can safely expect it to be a little more acidic than usual.
 
 
+| Parameter | t-value | p-value |
+| :------ |:--- | :--- |
+| pH | 2.051557 | 0.040506 |
+| Secchi Depth | 0.012235 | 0.990241 |
+| Salinity | 1.739495 | 0.082297 |
+| Water Depth | 1.707529 | 0.088073 |
+| Dissolved Oxygen | 1.073511 | 0.283520 |
+
+
