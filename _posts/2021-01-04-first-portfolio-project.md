@@ -5,7 +5,6 @@ subtitle: Data Wrangling with Water Chemistry
 
 tags: [python,data wrangling,data visualization]
 ---
-
 For this unit's portfolio project I looked for something to combine my existing strength in the geosciences as well as maybe find something that had some personal relevance. That search ended up landing on a topic that was actually quite close to home for me, literally.
 
 My hometown of Norfolk, Virginia is known for many things. Some people think of sprawling dockyards churning out ships. Some think of waiting in traffic to get through one of our beautiful bridge-tunnels. Still others would probably mention our naval station, the largest in the world. For anyone who has ever lived here though, what's most likely the defining quality of our city is the water.
